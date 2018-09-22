@@ -1,11 +1,16 @@
 _repo: Journal-of-a-Tour-in-the-Years-1828-1829-through-Styria-Carniola-and-Italy-whilst-Accompanyin__55920
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55920-h/images/cover.jpg
 creator:
   author:
     agent_name: Tobin, J. J.
     gutenberg_agent_id: '48581'
     url: http://www.gutenberg.org/2009/agents/48581
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55920#Journal-of-a-Tour-in-the-Years-1828-1829-through-Styria-Carniola-and-Italy-whilst-Accompanyin_
 gutenberg_issued: '2017-11-09'
 gutenberg_type: Text
 identifiers:
